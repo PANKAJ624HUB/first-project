@@ -25,7 +25,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2025 Your Name</p>
+        <p>&copy; 2025 Pankaj Thakur</p>
     </footer>
 </body>
 </html>
