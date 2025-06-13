@@ -1,4 +1,4 @@
-# first-Repository
+# First-Repository
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,7 +25,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2025 by - Pankaj Thakur</p>
+        <p>&copy; 2025 by - Us</p>
     </footer>
 </body>
 </html>
